@@ -1,0 +1,39 @@
+body{
+
+		background-color: #eeeeee;
+		color: #0d47a1;
+}
+.panel-default{
+	border-color: black;
+	border-radius: 5px;
+	}
+
+
+.panel-body
+		{
+
+
+            background-color: #bbdefb;
+            border-color: black;
+            border-width: 5px;
+            border-radius: 5px;
+            padding-top: 15px;
+            padding-right: 100px;
+            padding-bottom: 0px;
+            padding-left: 100px;
+            text-align: left;
+
+
+		 } 
+
+.navbar
+ 	{background-color:#0d47a1;}	
+
+.navbar-inverse .navbar-nav li>a
+ 	{
+ 		color: white;
+ 	}
+
+
+
+
